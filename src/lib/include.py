@@ -12,11 +12,11 @@ import random
 import PIL
 import cv2
 import matplotlib
-matplotlib.use('TkAgg')
+# matplotlib.use('TkAgg')
 #matplotlib.use('WXAgg')
 #matplotlib.use('Qt4Agg')
 #matplotlib.use('Qt5Agg')
-print('matplotlib.get_backend : ', matplotlib.get_backend())
+# print('matplotlib.get_backend : ', matplotlib.get_backend())
 #print(matplotlib.__version__)
 
 
